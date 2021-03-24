@@ -12,4 +12,4 @@ seconds.py       |Счётчик секунд
 sits.py          |Счётчик приседаний
 runner.py        |Анимация «бегунок»
 
-:arrow_forward: Use the main.py to run the application.
+New information ...
