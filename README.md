@@ -12,4 +12,4 @@ seconds.py       |Счётчик секунд
 sits.py          |Счётчик приседаний
 runner.py        |Анимация «бегунок»
 
-New information ...
+New information .
