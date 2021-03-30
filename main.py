@@ -19,7 +19,7 @@ from sits import Sits
 from runner import Runner
 
 Window.clearcolor = (.53, .53, .53, 1)
-btn_color = (0, 0.9, 0.64, 1)
+btn_color = (0.06, 0.1, 0.64, 1)
 
 age = 7
 name = ""
